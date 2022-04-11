@@ -55,7 +55,8 @@ public class Main {
     public static void displayDataMakanan(String[][][] Menu, Integer number) {
         /*
          * displayDataMakanan()
-         * I : -
+         * I : Menu, data array menu yang akan ditampilkan
+         *     number, variable yang digunakan untuk menampilkan data no dari masing-masing menu
          * O : -
          * Ket : Fungsi ini tidak mengembalikan nilai apapun, karena kegunaannya hanya untuk menampilkan
          *       daftar menu yang dapat dibeli oleh pembeli
